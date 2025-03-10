@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "openblacklist"
-version = "1.0.0"
+version = "0.0.1"
 description = "Unofficial Plume URL API"
 homepage = "https://url.ptarmigan.xyz/"
 license = "MIT"
