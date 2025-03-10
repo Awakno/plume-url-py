@@ -1,4 +1,3 @@
-import asyncio
 from plume_url.main import PlumeUrlAPI
 
 __all__ = ["PlumeUrlAPI"]
