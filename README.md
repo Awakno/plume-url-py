@@ -7,7 +7,7 @@ Plume URL API is an unofficial Python wrapper for the Plume URL shortening servi
 To install the library, use pip:
 
 ```sh
-pip install plume-url
+pip install PlumeURL
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ Here's a basic example of how to use the library:
 
 ```python
 import asyncio
-from plume_url import PlumeUrlAPI
+from plumeurl import PlumeUrlAPI
 
 api = PlumeUrlAPI("your_api_key_here")
 

@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "PlumeURL"
-version = "0.0.6"
+version = "1.0.0"
 description = "Unofficial Plume URL API"
 homepage = "https://url.ptarmigan.xyz/"
 license = "MIT"
