@@ -27,7 +27,7 @@ jobs:
       if: steps.check_version.outputs.version_changed == 'true'
       id: setup-python
       with:
-        python-version: '3.12'
+        python-version: '3.13'
 
     - name: Install Poetry
       if: steps.check_version.outputs.version_changed == 'true'
